@@ -1,0 +1,8 @@
+{
+    "name": "groundsix/akismet",
+    "type": "library",
+    "description": "A PHP akismet wrapper",
+    "autoload": {
+        "psr-0": { "Akismet": "src/main/php/net/achingbrain" }
+    }
+}
